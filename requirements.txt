@@ -10,3 +10,4 @@ plotly
 matplotlib
 python-dateutil
 pymysql
+seaborn
