@@ -1,6 +1,6 @@
 
 # Regime-Switching Portfolio Optimization
-![Uploading image.png…]()
+![regime switching.png]()
 
 This application implements a data-driven framework for regime-switching portfolio optimization using a combination of machine learning and traditional financial approaches. The idea of regime-switching portfolio optimization originates from a [dissertation by P. Pomorski](https://www.nber.org/papers/w17703) that explores how asset returns behave differently across different market regimes.
 
